@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio.test\\WorkingWithVisualStudio.tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio.test\\WorkingWithVisualStudio.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio.test\\WorkingWithVisualStudio.tests.csproj",
+        "projectName": "WorkingWithVisualStudio.tests",
+        "projectPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio.test\\WorkingWithVisualStudio.tests.csproj",
+        "packagesPath": "C:\\Users\\Grego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio.test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+                "projectPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "projectName": "WorkingWithVisualStudio",
+        "projectPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\WorkingWithVisualStudio.csproj",
+        "packagesPath": "C:\\Users\\Grego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\mvc\\mvc-lab07\\WorkingWithVisualStudio\\WorkingWithVisualStudio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.All": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.13.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

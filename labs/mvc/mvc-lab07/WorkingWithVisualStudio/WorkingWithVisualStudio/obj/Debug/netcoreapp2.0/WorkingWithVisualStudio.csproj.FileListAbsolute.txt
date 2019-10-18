@@ -1,0 +1,14 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.deps.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.dev.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfoInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfo.cs
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll

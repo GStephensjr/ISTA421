@@ -1,0 +1,12 @@
+C:\Users\Gregory\source\repos\cssbs-ex14-encryptinganddecryptingmessages\bin\Debug\cssbs-ex14-encryptinganddecryptingmessages.exe.config
+C:\Users\Gregory\source\repos\cssbs-ex14-encryptinganddecryptingmessages\bin\Debug\cssbs-ex14-encryptinganddecryptingmessages.exe
+C:\Users\Gregory\source\repos\cssbs-ex14-encryptinganddecryptingmessages\bin\Debug\cssbs-ex14-encryptinganddecryptingmessages.pdb
+C:\Users\Gregory\source\repos\cssbs-ex14-encryptinganddecryptingmessages\obj\Debug\cssbs-ex14-encryptinganddecryptingmessages.csprojAssemblyReference.cache
+C:\Users\Gregory\source\repos\cssbs-ex14-encryptinganddecryptingmessages\obj\Debug\cssbs-ex14-encryptinganddecryptingmessages.exe
+C:\Users\Gregory\source\repos\cssbs-ex14-encryptinganddecryptingmessages\obj\Debug\cssbs-ex14-encryptinganddecryptingmessages.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\cssbs-ex14-encryptinganddecryptingmessages\obj\Debug\cssbs-ex14-encryptinganddecryptingmessages.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\cssbs-ex14-encryptinganddecryptingmessages\obj\Debug\cssbs-ex14-encryptinganddecryptingmessages.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\cssbs-ex14-encryptinganddecryptingmessages\obj\Debug\cssbs-ex14-encryptinganddecryptingmessages.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\cssbs-ex14-encryptinganddecryptingmessages\bin\Debug\cssbs-ex14-encryptinganddecryptingmessages.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\cssbs-ex14-encryptinganddecryptingmessages\bin\Debug\cssbs-ex14-encryptinganddecryptingmessages.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\cssbs-ex14-encryptinganddecryptingmessages\bin\Debug\cssbs-ex14-encryptinganddecryptingmessages.pdb

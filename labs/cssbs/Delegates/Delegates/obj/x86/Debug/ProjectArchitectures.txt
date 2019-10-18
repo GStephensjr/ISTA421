@@ -1,0 +1,8 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\AuditService\AuditService.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\CheckoutService\CheckoutService.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\DataTypes\DataTypes.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\DataTypes\DataTypes.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\DataTypes\DataTypes.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\DataTypes\DataTypes.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\Delegates\Delegates.csproj;x86
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Delegates\DeliveryService\DeliveryService.csproj;x86

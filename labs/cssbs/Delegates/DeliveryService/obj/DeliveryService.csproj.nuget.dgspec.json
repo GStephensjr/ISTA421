@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DeliveryService\\DeliveryService.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DataTypes\\DataTypes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DataTypes\\DataTypes.csproj",
+        "projectName": "DataTypes",
+        "projectPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DataTypes\\DataTypes.csproj",
+        "packagesPath": "C:\\Users\\Grego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DataTypes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.15063"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.15063": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.15063": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DeliveryService\\DeliveryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DeliveryService\\DeliveryService.csproj",
+        "projectName": "DeliveryService",
+        "projectPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DeliveryService\\DeliveryService.csproj",
+        "packagesPath": "C:\\Users\\Grego\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DeliveryService\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Grego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {
+              "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DataTypes\\DataTypes.csproj": {
+                "projectPath": "C:\\Users\\Grego\\OneDrive\\Desktop\\MSSA\\MSSA\\ISTA421\\labs\\cssbs\\Delegates\\DataTypes\\DataTypes.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

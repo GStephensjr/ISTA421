@@ -1,0 +1,11 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.deps.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.runtimeconfig.dev.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\bin\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfoInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.AssemblyInfo.cs
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\ProEntity\EF2\consoleapp.sqlite\obj\Debug\netcoreapp2.2\ConsoleApp.SQLite.pdb

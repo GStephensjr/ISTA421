@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\bin\Debug\decbinoctConversion.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\bin\Debug\decbinoctConversion.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\bin\Debug\decbinoctConversion.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\obj\Debug\decbinoctConversion.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\obj\Debug\decbinoctConversion.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\obj\Debug\decbinoctConversion.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\decbinoctConversion\obj\Debug\decbinoctConversion.pdb

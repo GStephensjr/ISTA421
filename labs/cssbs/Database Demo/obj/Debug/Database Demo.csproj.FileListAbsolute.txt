@@ -1,0 +1,34 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\obj\Debug\Database Demo.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\obj\Debug\Database Demo.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\Database Demo.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\Database Demo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\Database Demo.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\EntityFramework.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\EntityFramework.xml
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\obj\Debug\Database Demo.csproj.CopyComplete
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\obj\Debug\Database Demo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\Database Demo\obj\Debug\Database Demo.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\Database Demo.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\Database Demo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\Database Demo.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\EntityFramework.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\System.Data.SQLite.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\EntityFramework.xml
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\System.Data.SQLite.xml
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\obj\Debug\Database Demo.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\obj\Debug\Database Demo.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\obj\Debug\Database Demo.csproj.CopyComplete
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\obj\Debug\Database Demo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Database Demo\obj\Debug\Database Demo.pdb

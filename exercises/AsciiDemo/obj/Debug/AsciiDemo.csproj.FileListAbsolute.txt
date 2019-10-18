@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\bin\Debug\AsciiDemo.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\bin\Debug\AsciiDemo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\bin\Debug\AsciiDemo.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\obj\Debug\AsciiDemo.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\obj\Debug\AsciiDemo.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\obj\Debug\AsciiDemo.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\AsciiDemo\obj\Debug\AsciiDemo.pdb

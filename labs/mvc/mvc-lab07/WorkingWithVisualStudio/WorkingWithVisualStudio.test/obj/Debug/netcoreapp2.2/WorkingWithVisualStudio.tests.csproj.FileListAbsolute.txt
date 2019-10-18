@@ -1,0 +1,17 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.deps.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.runtimeconfig.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.runtimeconfig.dev.json
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\bin\Debug\netcoreapp2.2\WorkingWithVisualStudio.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.AssemblyInfoInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.AssemblyInfo.cs
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.csproj.CopyComplete
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\mvc-lab07\WorkingWithVisualStudio\WorkingWithVisualStudio.test\obj\Debug\netcoreapp2.2\WorkingWithVisualStudio.tests.pdb

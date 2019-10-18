@@ -1,0 +1,7 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\bin\Debug\Linq Exercises.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\bin\Debug\Linq Exercises.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\bin\Debug\Linq Exercises.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\obj\Debug\Linq Exercises.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\obj\Debug\Linq Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\obj\Debug\Linq Exercises.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\exercises\Linq Exercises\obj\Debug\Linq Exercises.pdb

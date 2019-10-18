@@ -1,0 +1,10 @@
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.exe.config
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\bin\Debug\EnumeratorTest.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\bin\Debug\BinaryTree.dll
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\bin\Debug\BinaryTree.pdb
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csprojAssemblyReference.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csproj.CoreCompileInputs.cache
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.csproj.CopyComplete
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.exe
+C:\Users\Grego\OneDrive\Desktop\MSSA\MSSA\ISTA421\labs\cssbs\Ch19\BinaryTree\EnumeratorTest\obj\Debug\EnumeratorTest.pdb
